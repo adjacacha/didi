@@ -1,1 +1,1 @@
-Тест руперта
+print('hello world')
